@@ -1,0 +1,14 @@
+C:\Works\Worldle_Oyun_Kopyası\bin\Debug\net8.0\Worldle_Oyun_Kopyası.exe
+C:\Works\Worldle_Oyun_Kopyası\bin\Debug\net8.0\Worldle_Oyun_Kopyası.deps.json
+C:\Works\Worldle_Oyun_Kopyası\bin\Debug\net8.0\Worldle_Oyun_Kopyası.runtimeconfig.json
+C:\Works\Worldle_Oyun_Kopyası\bin\Debug\net8.0\Worldle_Oyun_Kopyası.dll
+C:\Works\Worldle_Oyun_Kopyası\bin\Debug\net8.0\Worldle_Oyun_Kopyası.pdb
+C:\Works\Worldle_Oyun_Kopyası\obj\Debug\net8.0\Worldle_Oyun_Kopyası.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\Worldle_Oyun_Kopyası\obj\Debug\net8.0\Worldle_Oyun_Kopyası.AssemblyInfoInputs.cache
+C:\Works\Worldle_Oyun_Kopyası\obj\Debug\net8.0\Worldle_Oyun_Kopyası.AssemblyInfo.cs
+C:\Works\Worldle_Oyun_Kopyası\obj\Debug\net8.0\Worldle_Oyun_Kopyası.csproj.CoreCompileInputs.cache
+C:\Works\Worldle_Oyun_Kopyası\obj\Debug\net8.0\Worldle_Oyun_Kopyası.dll
+C:\Works\Worldle_Oyun_Kopyası\obj\Debug\net8.0\refint\Worldle_Oyun_Kopyası.dll
+C:\Works\Worldle_Oyun_Kopyası\obj\Debug\net8.0\Worldle_Oyun_Kopyası.pdb
+C:\Works\Worldle_Oyun_Kopyası\obj\Debug\net8.0\Worldle_Oyun_Kopyası.genruntimeconfig.cache
+C:\Works\Worldle_Oyun_Kopyası\obj\Debug\net8.0\ref\Worldle_Oyun_Kopyası.dll
